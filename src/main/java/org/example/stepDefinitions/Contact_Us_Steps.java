@@ -35,5 +35,4 @@ public class Contact_Us_Steps {
     public void i_should_be_presented_with_a_successful_contact_us_submission_message() {
 
     }
-
 }
