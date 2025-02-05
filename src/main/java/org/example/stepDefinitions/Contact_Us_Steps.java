@@ -68,4 +68,5 @@ public class Contact_Us_Steps {
         WebElement contactUs_Submission_Message = driver.findElement(By.xpath("//div[@id='contact_reply']/h1"));
         Assert.assertEquals(contactUs_Submission_Message.getText(),"Thank You for your Message!");
     }
+
 }
